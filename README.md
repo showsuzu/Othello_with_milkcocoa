@@ -1,2 +1,2 @@
 # Othello_with_milkcocoa
-milkcocoaのサンプルコードを改造してcordovaに対応したオセロゲーム
+[milkcocoaのサンプルコード](https://github.com/syuhei176/reverse)を改造してcordovaに対応したオセロゲーム
