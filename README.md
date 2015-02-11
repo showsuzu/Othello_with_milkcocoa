@@ -1,0 +1,2 @@
+# Othello_with_milkcocoa
+milkcocoaのサンプルコードを改造してcordovaに対応したオセロゲーム
