@@ -72,7 +72,7 @@ var app = {
 
     reversiStart: function() {
         /* main.jsから移植 */
-        var milkcocoa = new MilkCocoa("https://io-ri5xv824j.mlkcca.com");
+        var milkcocoa = new MilkCocoa("https:<your application ID>.mlkcca.com");
         var ds = milkcocoa.dataStore('reversi').child('game1');
         var map = new ReversiMap(ds);
         app.create_session(ds, function(index) {
